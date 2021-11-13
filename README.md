@@ -2,11 +2,11 @@
 
 This a full stack project about a website layout of a bike retailer service. This project has been made using HTML, React.js,React route, CSS, Bootstrap, firebase and mongodb. 
 
-Here is the live deployed link of this website: 
+Here is the live deployed link of this website: https://bikewala-1dbc0.web.app/
 
-Live API server link: 
+Live API server link: https://immense-thicket-22974.herokuapp.com/
 
-Client-side UI code link: 
+Client-side UI code link: https://github.com/programming-hero-web-course-4/niche-website-client-side-rupom96
 
 ## Features and Functionality:
 

@@ -6,7 +6,7 @@ Here is the live deployed link of this website: https://bikewala-1dbc0.web.app/
 
 Live API server link: https://immense-thicket-22974.herokuapp.com/
 
-Client-side UI code link: https://github.com/programming-hero-web-course-4/niche-website-client-side-rupom96
+Client-side UI code link: https://github.com/rupom96/Bike-Wala
 
 ## Features and Functionality:
 
